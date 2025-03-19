@@ -68,7 +68,7 @@ PD: Uso Spanglish, intencionalmente c:
   <summary>Quotes 💬</summary>
   <br>
   <blockquote>
-    A bug is never just a mistake. It represents something bigger. An error of thinking. That makes you who you are.” <br>
+    "A bug is never just a mistake. It represents something bigger. An error of thinking. That makes you who you are.” <br>
     <strong>Mr. Robot - Elliot Alderson</strong>
   </blockquote>
   <br>
